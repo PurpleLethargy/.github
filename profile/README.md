@@ -20,15 +20,15 @@ I’m a hobbyist coder passionate about learning **cybersecurity** and diving in
 
 ![Purple Divider](https://capsule-render.vercel.app/api?type=soft&color=310052&text=PurpleLethargy&height=100&fontColor=fff)
 
-## 🖥️ My Neofetch
-
-<p align="center">
-  <img src="./assets/NeoFetch.png" alt="Neofetch" width="500">
-</p>
-
 ## 📬 Let’s connect!
 - YouTube: [https://www.youtube.com/@PurpleLethargy](https://www.youtube.com/@PurpleLethargy)
 - Roblox: [PurpleLethargy](https://www.roblox.com/users/9420341245/profile)
 - Discord: PurpleLethargy
+
+## 🖥️ Neofetch :D
+
+<p align="center">
+  <img src="./assets/NeoFetch.png" alt="Neofetch" width="500">
+</p>
 
 Thanks for taking your time to see this! Feel free to check out my [website](https://PurpleLethargy.github.io/) or reach out if you want to chat about random stuff, Shitpost in my DMs, or just get help with coding!
