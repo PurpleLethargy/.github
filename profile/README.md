@@ -5,7 +5,7 @@ I’m a hobbyist coder passionate about learning **cybersecurity** and diving in
 
 ## 🛠️ Tech Stack & Tools
 - **Languages:** Python, JavaScript, HTML, CSS, Skript  
-- **Dabbling** *in*: Java, Lua, and Rust
+- *Dabbling in:* Java, Lua, Rust
 - **OS:** Arch Linux BTW 🐧
 - **Favorite things:** Open source projects, learning technology related stuff, making small projects, and him 💜.
 
@@ -18,11 +18,17 @@ I’m a hobbyist coder passionate about learning **cybersecurity** and diving in
 ## 💜 Aestheticccc 💅 
 > I luvv Purpleeeee 💜 🟣 🟪
 
-![Purple Divider](https://capsule-render.vercel.app/api?type=soft&color=310052&text=PurpleLethargy&height=200&strokeWidth=3&fontColor=fff&stroke=000000)
+![Purple Divider](https://capsule-render.vercel.app/api?type=soft&color=310052&text=PurpleLethargy&height=100&fontColor=fff)
+
+## 🖥️ My Neofetch
+
+<p align="center">
+  <img src="./assets/neofetch.png" alt="Neofetch" width="500">
+</p>
 
 ## 📬 Let’s connect!
-- YouTube: **https://www.youtube.com/@PurpleLethargy**
-- Roblox: **[PurpleLethargy](https://www.roblox.com/users/9420341245/profile)**
-- Discord: **PurpleLethargy**
+- YouTube: [https://www.youtube.com/@PurpleLethargy](https://www.youtube.com/@PurpleLethargy)
+- Roblox: [PurpleLethargy](https://www.roblox.com/users/9420341245/profile)
+- Discord: PurpleLethargy
 
-Thanks for taking your time to see this! Feel free to check out my **[website](https://PurpleLethargy.github.io/)** or reach out if you want to chat about random stuff, Shitpost in my DMs, or just get help with coding!
+Thanks for taking your time to see this! Feel free to check out my [website](https://PurpleLethargy.github.io/) or reach out if you want to chat about random stuff, Shitpost in my DMs, or just get help with coding!
