@@ -22,7 +22,7 @@ I’m a hobbyist coder passionate about learning **cybersecurity** and diving in
 
 ## 📬 Let’s connect!
 - YouTube: **https://www.youtube.com/@PurpleLethargy**
-- Roblox: **[PurpleLethargy*](https://www.roblox.com/users/9420341245/profile)**
+- Roblox: **[PurpleLethargy*](https://www.roblox.com/users/9420341245/profile)*
 - Discord: **PurpleLethargy**
 
 Thanks for taking your time to see this! Feel free to check out my **[website](https://PurpleLethargy.github.io/)** or reach out if you want to chat about random stuff, Shitpost in my DMs, or just get help with coding!
