@@ -23,7 +23,7 @@ I’m a hobbyist coder passionate about learning **cybersecurity** and diving in
 ## 🖥️ My Neofetch
 
 <p align="center">
-  <img src="./assets/NeoFetch 9-21-25.png" alt="Neofetch" width="500">
+  <img src="./assets/NeoFetch.png" alt="Neofetch" width="500">
 </p>
 
 ## 📬 Let’s connect!
