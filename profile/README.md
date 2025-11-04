@@ -7,7 +7,7 @@ I’m a hobbyist coder passionate about learning **cybersecurity** and diving in
 - **Languages:** Python, JavaScript, HTML, CSS, Skript  
 - *Dabbling in:* Java, Lua, Rust
 - **OS:** Arch Linux BTW 🐧
-- **Favorite things:** Open source projects, learning technology related stuff, making small projects, and him 💜.
+- **Favorite things:** Open source projects, learning technology related stuff, and making small projects.
 
 ## 🌱 What I’m up to
 - Learning cybersecurity for personal and privacy reasons
