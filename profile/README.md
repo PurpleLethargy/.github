@@ -5,7 +5,7 @@ I’m a hobbyist coder passionate about learning **cybersecurity** and diving in
 
 ## 🛠️ Tech Stack & Tools
 - **Languages:** Python, JavaScript, HTML, CSS, Skript  
-- *Dabbling in:* Java, Lua, Rust
+- **Dabbling in:** Java, Lua, Rust
 - **OS:** Arch Linux BTW 🐧
 - **Favorite things:** Open source projects, learning technology related stuff, and making small projects.
 
