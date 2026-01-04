@@ -1,7 +1,7 @@
 # Hi there, I’m PurpleLethargy! 👋💜
 
 Welcome to my GitHub profile!  
-I’m a hobbyist coder passionate about learning **cybersecurity** and diving into the world of **AI/ML**. I love exploring open source projects, tinkering with new tech, and looking at open source projects.
+I’m a hobbyist coder passionate about learning **cybersecurity** and diving into the world of learning Rust! I love exploring open source projects, tinkering with new tech, and looking at open source projects (idk).
 
 ## 🛠️ Tech Stack & Tools
 - **Languages:** Python, JavaScript, HTML, CSS, Skript  
