@@ -1,2 +1,2 @@
-![](https://komarev.com/ghpvc/?username=PurpleLethargy&color=FF99FF)
-![Overall Statistics](https://lastly.nisarga.me/api/overall?username=PurpleLethargy&period=OVERALL)
+![](https://komarev.com/ghpvc/?username=PurpleLethargy&color=FF99FF)<br>
+![Overall Statistics](https://lastly.nisarga.me/api/overall?username=PurpleLethargy)
