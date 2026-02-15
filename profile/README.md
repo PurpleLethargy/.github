@@ -1,4 +1,4 @@
-<h1 align="center">Hello!! I am purp!</h1>
+<h1 align="center">Hello!! I am Purp!</h1>
 <h3 align="center">Jus a random silly dev :P</h3><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purplelethargy&label=Profile%20Views:&color=9333ea&style=flat" alt="purplelethargy" /> </p>
